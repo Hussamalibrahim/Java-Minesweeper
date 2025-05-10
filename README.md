@@ -1,5 +1,7 @@
-## Java-Minesweeper
+# Java-Minesweeper
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+![Swing](https://img.shields.io/badge/GUI-Java_Swing-007396)
 # A complete implementation of the classic Minesweeper game using Java Swing
 # 🎮 Game Features
 Classic Minesweeper gameplay with customizable grid size
